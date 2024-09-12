@@ -1038,12 +1038,7 @@ button.thumbs-rating-up {
 .thumbs-rating-container .thumbs-rating-down{
   display: none;
 }
-.page_visit:after {
-    content: 'played';
-    position: absolute;
-    right: -54px;
-    top: 0px;
-}
+
 button.thumbs-rating-up:before {
     content: url(/wp-content/themes/mortalkombat/img/icon-like.svg);
     position: absolute;
